@@ -3,7 +3,7 @@
     <div class="absolute left-0 top-0 z-20">
         <a href="{{ route('categories.index') }}" class="block">
             <div class="bg-black px-10 p-6 shadow overflow-visible" style="clip-path: polygon(0 0, 100% 0, calc(100% - 20px) 100%, 0 100%);">
-                <img src="{{ asset('imgs/logo.png') }}" alt="..." class="h-8 mb-1">
+                <img src="{{ asset('imgs/logo.png') }}" alt="..." class="h-16 mb-1">
             </div>
         </a>
     </div>

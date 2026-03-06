@@ -22,7 +22,7 @@
 
         <!-- Bottom Bar -->
         <div class="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-400">
-            <p>&copy; {{ date('Y') }} Ciaobella. Všetky práva vyhradené.</p>
+            <p>&copy; {{ date('Y') }} Kaviareň na Korze. Všetky práva vyhradené.</p>
         </div>
     </div>
 </footer>
